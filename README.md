@@ -19,6 +19,7 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/Remnant-From-t
 - Aim Method
 - D-Pad Shifting Method
 - DecoupledPitchUIAdjust
+- CameraForwardOffset
 - UI Distance
 - UI Size
 ----
@@ -59,12 +60,11 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/Remnant-From-t
 - All dialogues have free head/controller movement
 - All mid-game mini-cut cams detached from controller
 - Character hidden
-- Character arms visible during montages
+- Character body visible during montages
 - Weapon recoil/spread removed
 - Most camera shake removed
 - Default vignette removed (injured vignette remains)
 - Attached weapons to Right Controller
-- Aiming 
 - Bullet spread reduced
 - Movement orientation set to Left Controller (feel free to change)
 - Some cvar tweaks
