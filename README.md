@@ -1,5 +1,7 @@
 # Remnant-From-the-Ashes-VR - W.I.P
 6DOF Motion Controller UEVR Profile + 1st Person Mod + VR Fix Mod
+> [!CAUTION]
+> Currently a W.I.P expect _some_ jank and/or bugs .. But certainly playable.
 
 ## Requires UEVR 1.05 (or Nightly)
 https://github.com/praydog/UEVR
