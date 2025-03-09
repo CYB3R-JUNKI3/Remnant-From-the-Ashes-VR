@@ -85,6 +85,11 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/Remnant-From-t
 :bulb: No this profile/mod is 1st person only, <a href="https://discord.com/channels/747967102895390741/1074803030052053074/1317717507624144896">try this profile/mod by DJ at Flat2VR</a>
 
 ---
+:question: _Item pickups/dialogue "Prompts" look weird and some button prompts do not show_
+
+:bulb: This is a know issue, it will be fixed when a solution is found
+
+---
 :question: _My (Weapon_name) melee weapon is not attached_
 
 :bulb: There are still some melee weapons not attached, send me your save over at Discord and I will see if I can attach it
