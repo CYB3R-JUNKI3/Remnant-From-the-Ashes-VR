@@ -68,11 +68,21 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/Remnant-From-t
 - Bullet spread reduced
 - Movement orientation set to Left Controller (feel free to change)
 - Some cvar tweaks
-- _Much more, .. Too many to list_
+- _+ more_
 ----
 
 
 ## Important Notes / FAQ's
+:question: _Can I play in 3rd person_
+
+:bulb: If you want to play 3rd Person you do not need this profile/mod
+
+---
+:question: _Is there a 1st/3rd person toggle_
+
+:bulb: No this profile/mod is 1st person only, <a href="https://discord.com/channels/747967102895390741/1074803030052053074/1317717507624144896">try this profile/mod by DJ at Flat2VR</a>
+
+---
 :question: _My (Weapon_name) melee weapon is not attached_
 
 :bulb: There are still some melee weapons not attached, send me your save over at Discord and I will see if I can attach it
@@ -86,7 +96,7 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/Remnant-From-t
 
 :question: _Some cut-scenes have no subtitles_
 
-:bulb: The UI has been removed to remove black bars from cut-scenes, this means that the subtitles for those parts are also invisible
+:bulb: The UI has been removed to remove black bars from cut-scenes, so subtitles for those parts are also invisible
 
 ---
 
